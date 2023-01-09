@@ -2,7 +2,7 @@
 // that is.
 
 const anchor = document.querySelector("a")!;
-const form = document.querySelector("form")!
+const form = document.querySelector("form")!;
 
 // exclamation mark is added to confirm that we're sure the element is not null.
 
