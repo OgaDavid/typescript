@@ -1,3 +1,4 @@
+// all properties in classed are public by default.
 class Invoice {
     client: string;
     details: string;
