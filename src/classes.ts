@@ -15,5 +15,5 @@ class Invoice {
     }
 }
 
-const InvOne = new Invoice('David', 'worked on portfolio website', 250);
-const InvTwo = new Invoice('Tolu', 'worked on portfolio website', 400);
+// const InvOne = new Invoice('David', 'worked on portfolio website', 250);
+// const InvTwo = new Invoice('Tolu', 'worked on portfolio website', 400);
