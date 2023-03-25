@@ -3,10 +3,10 @@ export class Invoices {
     public details: string;
     readonly amount: number;
 
-    constructor(c: string, d: string, a: number) {
-        this.client = c;
-        this.details = d;
-        this.amount  = a;
+    constructor(a: string, b: string, c: number) {
+        this.client = a;
+        this.details = b;
+        this.amount  = c;
     }
 
     createInvoice() {
