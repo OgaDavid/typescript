@@ -1,1 +1,1 @@
-## This is a repository for learning typescript
+# This is a repository for learning typescript
